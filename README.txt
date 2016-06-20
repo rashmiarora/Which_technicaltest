@@ -2,6 +2,11 @@
 
 This test framework covers the tests for the Television reviews page
 
+## Cloning repository
+Create a folder in your local machine
+On the terminal go to your folder
+Do git clone https://github.com/rashmiarora/Which_technicaltest.git
+
 ##Introduction to the Layout
 
 features/television_review.feature : cucumber features
